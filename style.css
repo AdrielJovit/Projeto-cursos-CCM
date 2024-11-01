@@ -79,6 +79,7 @@ body {
 
 .principal-capa_imagem {
     border-radius: 100%;
+    width: 30%;
 }
 
 .principal-capa_botao {
@@ -113,6 +114,13 @@ body {
 }
 
 .propaganda_imagem {
+    margin-left: 10%;
+    width: 80%;
+    margin-top: 15%;
+    box-shadow: 1px 1px 1rem var(--preto);
+}
+
+.propaganda_imagem2{
     margin-left: 10%;
     width: 80%;
     margin-top: 15%;
